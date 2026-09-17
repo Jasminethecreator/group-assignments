@@ -6,7 +6,7 @@ Create a security group in Microsoft Entra ID and assign a user as a member to m
 
 ## Scenario
 
-This lab simulated setting up group-based access for IT staff, so that access to IT tools, admin portals, and tech-related apps could be managed through group membership rather than individual permissions.
+This lab simulated setting up group based access for IT staff, so that access to IT tools, admin portals, and tech-related apps could be managed through group membership rather than individual permissions.
 
 ## Tasks Completed
 
@@ -19,7 +19,7 @@ This lab simulated setting up group-based access for IT staff, so that access to
 <p align="center">
 <img width="700" alt="Security group created" src="https://github.com/user-attachments/assets/fb6badf9-e43a-49a3-b28b-599bb621e1a7" />
 </p>
-<p align="center"><em>Created the IT-Staff-Sec-Group, scoped to grant access to IT tools, admin portals, and tech related apps.</em></p>
+<p align="center"><em>Created the IT-Staff-Sec-Group, scoped to grant access to IT tools, admin portals, and tech-related apps.</em></p>
 
 <p align="center">
 <img width="700" alt="Kyle Roberts added to group" src="https://github.com/user-attachments/assets/76476bdf-1dca-4a58-9543-e4bca0d5b035" />
